@@ -5,7 +5,7 @@ from discord.ext.commands import Bot
 
 
 bot = Bot(command_prefix='!')
-token = "NzkzMDU1NTEyMjQ1NTY3NDg5.X-msgA.w60ML1CUzbler4oDWPRDAs2RnHI"
+token = "" #hidden for privacy reasons
 
 @bot.event
 async def on_ready():
